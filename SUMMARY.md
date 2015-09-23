@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [ps](ps.md)
+* [ps](psmd.md)
    * Ver 1.0
 
