@@ -1,4 +1,3 @@
-
 # PS3.0 Why I am qualified for my dream school
 
 I will choose three aspects to demostrate why I am qualified for my dream school CMU.
