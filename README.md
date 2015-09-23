@@ -1,4 +1,4 @@
-YYY notes for applying for American schools
+YYY notes for applying
 =======
 
 Records the YYY's efforts in applying.
