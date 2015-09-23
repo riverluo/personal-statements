@@ -1,4 +1,3 @@
-
 # PS2.0 About My Plan
 
 To prepare for the future work, I decide to devote myself into Opensource Community and try to do some great work to gain some fame in some engineering fields when I have time and energy in my graduate school. Another way is to be the contributor of some famous project. These two ways are not so easy for me, but if I can achieve the goal, I will be very competitive when I try to find a job in an IT company.
