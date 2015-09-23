@@ -1,0 +1,16 @@
+
+- Carnegie Mellon University
+- Carnegie Mellon University
+- Carnegie Mellon University
+- Carnegie Mellon University
+- Carnegie Mellon University
+- University of Illinois—Urbana-Champaign
+- University of California—Los Angeles
+- University of Michigan—Ann Arbor
+- Columbia University
+- University of California—San Diego
+- Brown University
+- University of Southern California
+- Yale University
+- Johns Hopkins University
+- University of California—Irvine
