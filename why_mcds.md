@@ -1,0 +1,13 @@
+# Why MCDS in CMU
+
+1. abundant teaching resources: MCDS draws from faculty members throughout Carnegie Mellon's top-ranked School of Computer Science, including the Computer Science Department,Machine Learning Department and the Institute for Software Research.
+
+2. professional:  delve deeply into topics like databases, distributed algorithms and storage, machine learning, language technologies, software engineering, human-computer interaction, and design. 
+
+ Finding a job depends mainly on basic skills and knowledge in computer science. Typically in two fields,
+In application(engineering) level: databases(backend), software engineering(process management) and human-computer interaction and design(front end). A thorough learning make students competitive in the practical work as I learnt in my internship. 
+In capability level, distributed algorithm, machine learning and language technologies are the hottest research area currently. It is hot not only because it is the future in academia, but for it has a strong killer application in the our life as well. So I think this program can provide the most resources in computer science in a practical way from engineering to research and that is all I want, a wide range of professional engineering skills training and some practice on how research can help in the engineering.
+
+3. If I was selected by this program, I have to choose five core courses. Among all the available courses in the systems major, I will choose Operating System Implementation(it is basic and no matter how complex the upper system is, under the current computer architecture if you wanna operate the hardware, you must take care of the operating system inevitably), Distributed System(it is very useful because currently more and more systems are designed based on the distribution, for its robust and high-perf, especially knowledge system like search engine, and server side like giant web site. learning this course, can help me understanding the under level of these system to avoid just see it from the top), Cloud Computing and Advanced Cloud Computing(these two courses are correlated to the distributed system, a deep learning on how Cloud works for enterprises and end users), and Parallel Computer Architecture & Programming(I think it may be a course which I can have more chances to write code, parallel computation is an feasible way to improve the perf, and perf-chasing never ends)
+
+4. Good chance in job career: see the statistics in http://mcds.cs.cmu.edu/learn-us-alumni
