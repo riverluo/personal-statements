@@ -8,7 +8,7 @@
    * [Ver 4.0](ver_40.md)
    * [Ver 5.0](ver_50.md)
    * [Ver 6.0](ver_60.md)
-   * Ver 7.0
+   * [Ver 7.0](ver_70.md)
 * [schools](schools.md)
    * [Why mcds](why_mcds.md)
 
