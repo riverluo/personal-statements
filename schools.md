@@ -1,16 +1,19 @@
 
-- Carnegie Mellon University
-- Carnegie Mellon University
-- Carnegie Mellon University
-- Carnegie Mellon University
-- Carnegie Mellon University
-- University of Illinois—Urbana-Champaign
-- University of California—Los Angeles
-- University of Michigan—Ann Arbor
-- Columbia University
-- University of California—San Diego
-- Brown University
-- University of Southern California
-- Yale University
-- Johns Hopkins University
-- University of California—Irvine
+- Carnegie Mellon University CS
+- Carnegie Mellon University MCDS
+- Carnegie Mellon University MIIS
+- Carnegie Mellon University MSBIC
+- Carnegie Mellon University SV-SE
+- University of Illinois—Urbana-Champaign CS
+- University of Illinois—Urbana-Champaign MCS
+- University of California—Los Angeles CS
+- University of Michigan—Ann Arbor CSE
+- Columbia University CS
+- University of California—San Diego CS
+- Brown University Scm
+- University of Southern California CS(general)
+- University of Southern California CS(SE)
+- University of Southern California CS(MM)
+- Yale University CS
+- Johns Hopkins University CS
+- University of California—Irvine CS

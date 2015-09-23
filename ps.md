@@ -7,4 +7,4 @@
 - PS4.0 About internship in G1Game
 - PS5.0 About my research
 - PS6.0 About one of my project experiences
-- Ps7.0 Applying for MCDS in CMU
+- PS7.0 Applying for MCDS in CMU
