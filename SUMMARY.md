@@ -7,5 +7,5 @@
    * [Ver 3.0](ver_30.md)
    * [Ver 4.0](ver_40.md)
    * [Ver 5.0](ver_50.md)
-   * Ver 6.0
+   * [Ver 6.0](ver_60.md)
 
