@@ -1,4 +1,3 @@
-
 # 目前已知PS
 
 - PS1.0 About my story
