@@ -29,6 +29,6 @@
 
 4. Why I choose these courses?
 
-Obviously, I want to master some essential skills to find a job. Computer Systems is what I want to dive into depth because these course are mostly important for work which I learnt in my internship. Most of the work in a company requires things around the Computer Systems, including OS, networks, high-perf computation and so on. For present, I will choose Computer Communication Networks which will describes internet protocols and routing functions, Distributed Systems which can help me build a high-perf server architecture pragmatically and  Parallel Computation about parallel programming and processors.
+    Obviously, I want to master some essential skills to find a job. Computer Systems is what I want to dive into depth because these course are mostly important for work which I learnt in my internship. Most of the work in a company requires things around the Computer Systems, including OS, networks, high-perf computation and so on. For present, I will choose Computer Communication Networks which will describes internet protocols and routing functions, Distributed Systems which can help me build a high-perf server architecture pragmatically and  Parallel Computation about parallel programming and processors.
 
-In the elective courses, I want to learn something about algorithms and machine learning. For algorithm, it is a common test for company to selective candidates. For machine learning, it is a trend in computer science.
+    In the elective courses, I want to learn something about algorithms and machine learning. For algorithm, it is a common test for company to selective candidates. For machine learning, it is a trend in computer science.
