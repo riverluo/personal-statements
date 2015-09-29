@@ -7,3 +7,4 @@
 - PS5.0 About my research
 - PS6.0 About one of my project experiences
 - PS7.0 Applying for MCDS in CMU
+- PS8.0 Applying for UCSD
