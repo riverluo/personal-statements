@@ -10,6 +10,7 @@
    * [Ver 6.0](ps_60.md)
    * [Ver 7.0](ps_70.md)
    * [Ver 8.0](ps_80.md)
+   * [Ver 9.0](ps_90.md)
 * [School Selection](schools.md)
    * [Why mcds](why_mcds.md)
    * [Why ucsd](why_ucsd.md)
