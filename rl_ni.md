@@ -6,7 +6,7 @@ Upon Mr.Yiyun Yao's request of recommendation letter and his wishes to pursue ma
 
 I am an associate professor in Southeast University, and my research is in  comptational intelligency and its applications. Mr.Yao is mainly doing the research work related to Ant Colony Optimization and its applications.
 
-Mr.Yao entered my lab in his freshman unlike his peers. As his class teacher, he came to inquiry about the information of my lab after the first class meeting. His initiative and clear target left me a deep impression.
+Mr.Yao entered my lab in his freshman. As his class teacher, he came to inquiry about the information of my lab after the first class meeting. His initiative and clear target left me a deep impression.
 
 Because of his programming skills learnt in advance, I asked Mr.Yao to attend as an assistant in a research group which lead by two fellow students and try to help implement some classical algorithms of swarm intelligence. The project was initially to discuss the possibility of applying ACO method or its variations to solve the Robot Path Planning problem. He learnt quickly and gave some preliminary results of the experiments to show the feasibility which help this project elevated from the college grade to national grade of Innovation Traning Program.
 
