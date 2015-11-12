@@ -1,29 +1,30 @@
-# Recommendation Letter from My Advisor
+# Letter of Recommendation
 
 To whom it may concern,
 
-Upon Mr.Yiyun Yao's request of recommendation letter and his wishes to pursue master degree at your program, I am very pleased to write this letter in support of his application for his outstanding academic performance in research as well as potential.
+I am delighted to write this recommendation letter to Mr. Yiyun Yao for the acceptance into your honored Master program. As his advisor and class teacher, I have a great opportunity to observe his outstanding academic performance in research and to communicate with him for about three years.
 
-I am an associate professor in Southeast University, and my research is in  comptational intelligency and its applications. Mr.Yao is mainly doing the research work related to Ant Colony Optimization and its applications.
+I am an associate professor in Southeast University, and my research mainly focuses on computational intelligence and its applications. Yiyun is doing the research work related to Ant Colony Optimization (ACO) and its applications.
 
-Mr.Yao entered my lab in his freshman. As his class teacher, he came to inquiry about the information of my lab after the first class meeting. His initiative and clear target left me a deep impression.
+Yiyun entered my lab in his first year into university. He came to express his interest in my research area and willingness to join my lab after the first class when I introduced some of my research backgrounds. His initiative and enthusiasm for research left me a deep impression.
 
-Because of his programming skills learnt in advance, I asked Mr.Yao to attend as an assistant in a research group which lead by two fellow students and try to help implement some classical algorithms of swarm intelligence. The project was initially to discuss the possibility of applying ACO method or its variations to solve the Robot Path Planning problem. He learnt quickly and gave some preliminary results of the experiments to show the feasibility which help this project elevated from the college grade to national grade of Innovation Traning Program.
+I would describe Yiyun as a quick learner. I arranged him to join a research project as an assistant and required him to implement some classical algorithms of swarm intelligence. The project aimed to discuss the possibility of applying ACO method or its variations to solve the Robot Path Planning problem. He learned the background knowledge quickly and soon gave some preliminary results of the experiments to prove the feasibility. Due to his clear arrangement of ideas and preparations of presentation, this project upgraded from college-level Innovation Training Program into national-level.
 
-Mr.Yao is very determined and capable. After two fellow students left the group, he continued the research of this area almost individually. Considering the taxing study workload in sophomore, he persevered in doing research and syncing with me whenever he had new ideas. In the contrast experiments he designed for the project, he implemented five algorithms in four scales of environments, including three of them which required parameter adjustment. It is not easy for an undergraduate student, but he finished it accurately, which made me totally satisfying. The result successfully reflected the feasibilty and advantages of the improved algorithms. He concluded his work into a paper with my help and published it on CEC 2015 as the first writer.
+Yiyun’s determination and capability impressed me. Even in the situation that some of his group companions quit in the middle, he still stuck to the research and updated his progresses with me regularly. In the comparative experiments designed to prove the effectiveness of the proposed method, he implemented all the five traditional algorithms, three of which required parameter adjustment. It is really hard for an undergraduate student to think about and realize these algorithms. The result reflected the feasibility and advantages of the improved algorithms successfully, showing his potential and capability in this field. Finally he concluded his work into a paper and published it on CEC 2015 as the first writer.
 
-In the contact with Mr.Yao, I found him an innovative and strong-minded student. During the research, I can see many shining points in his thinking to improve the algorithms. In the discussion of design of the modified ACO, he gave me a list of innovative stategies which he think effective, though some of them are unrealistic. He also participated actively in the discussison group held twice a month with the graduate students and gave a talk about some innovative methods in the papers he have recently read.
+I would regard him as an innovative student with critical thinking. In contact with Yiyun, I can see many sparking points in his thoughts. In the discussion about the modified ACO, he gave me a list of innovative strategies he believed to be effective. Although some of these ideas seemed to be unrealistic, others provided great aspects for him to further explore. He also actively participated in the group discussion held twice a month with the graduate students, sharing his ideas and perspectives about the innovative methods in the papers he read recently.
 
-After working with this prospective young student for three years, I esteem Mr. Yao as one of the best students who have worked in my lab. For his ability in programming, potential in researching and innovation in thinking, he can be an ideal student for your program.
+After three years’ continuous contact with Yiyun, I considered him as one of the best students who worked in my lab. Based on my previous experience, his excellent ability in programming, potential in researching and innovation in thinking will surely qualify him worthy asset in your unique program. Therefore, I recommend Yiyun with no reservation. Your favorable consideration will be highly appreciated. Please feel free to contact me if there is any problem.
 
-I recommend Mr.Yiyun Yao with no reservation.
+Sincerely,
 
-Best regards,
+Qingjian Ni,
 
-Ni Qingjian
-
-Associate Professor
+Associate Professor, College of Software Engineering
 
 Southeast University
 
-Email: niqingjian@gmail.com
+Tel: (+86) 13X XXXX XXXX
+
+Email: nqj@seu.edu.cn
+
