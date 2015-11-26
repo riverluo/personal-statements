@@ -20,7 +20,7 @@ Sincerely,
 
 Qingjian Ni,
 
-Associate Professor, College of Software Engineering
+Associate Professor, College of Computer Science and Engineering
 
 Southeast University
 
