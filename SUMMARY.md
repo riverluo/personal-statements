@@ -20,5 +20,5 @@
    * [Why ucsd](why_ucsd.md)
 * [Recommendation Letter](rl.md)
    * [From Ni - Ver 4.0](rl_ni.md)
-   * [From ZZZ - Ver 1.0](rl_ni.md)
+   * [From ZZZ](rl_zzz.md)
    * [From Ken](rl_kenchen.md)
