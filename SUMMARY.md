@@ -17,5 +17,6 @@
    * [Why mcds](why_mcds.md)
    * [Why ucsd](why_ucsd.md)
 * [Recommendation Letter](rl.md)
-   * [From Ni - Ver 3.0](rl_ni.md)
+   * [From Ni - Ver 4.0](rl_ni.md)
+   * [From ZZZ](rl_zzz.md)
    * [From Ken](rl_kenchen.md)

@@ -18,7 +18,7 @@ After three years’ continuous contact with Yiyun, I considered him as one of t
 
 Sincerely,
 
-Qingjian Ni,
+Zhizheng Zhang,
 
 Associate Professor, College of Software Engineering
 
@@ -26,4 +26,4 @@ Southeast University
 
 Tel: (+86) 13X XXXX XXXX
 
-Email: nqj@seu.edu.cn
+Email: seu_zzz@seu.edu.cn
