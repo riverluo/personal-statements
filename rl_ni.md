@@ -24,6 +24,6 @@ Associate Professor, College of Computer Science and Engineering
 
 Southeast University
 
-Tel: (+86) 13X XXXX XXXX
+Tel: (+86) 138 5179 8466
 
 Email: nqj@seu.edu.cn
