@@ -19,6 +19,8 @@
    * [UCLA - Ver 9.2](ps_92.md)
    * [UCLA - Ver 9.3](ps_93.md)
    * [UCLA - Ver 9.4](ps_94.md)
+   * [UCLA - Ver 9.5](ps_95.md)
+   * [MSBIC - Ver 10.0](ps_100.md)
 * [School Selection](schools.md)
    * [Why mcds](why_mcds.md)
    * [Why ucsd](why_ucsd.md)
