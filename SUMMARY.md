@@ -26,6 +26,7 @@
    * [Stanford - Ver 13.0](ps_130.md)
    * [Stanford - Ver 13.1](ps_131.md)
    * [Stanford - Ver 13.2](ps_132.md)
+   * [Stanford - Ver 13.3](ps_133.md)
    * [USC - Ver 14.0](ps_140.md)
    * [UCI - Ver 15.0](ps_150.md)
 * [School Selection](schools.md)
