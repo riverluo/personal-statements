@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Personal Statements](SUMMARY.md)
+* [Statement of Purpose](SOP.md)
    * [Ver 1.0](ps_10.md)
    * [Ver 2.0](ps_20.md)
    * [Ver 3.0](ps_30.md)
@@ -45,9 +45,9 @@
    * [UCI - Ver 15.3](ps_153.md)
    * [UCI - Ver 15.4](ps_154.md)
    * [UCI - Ver 15.5](ps_155.md)
-   * [UCI - Ver 16.0](ps_160.md)
-   * [UCI - Ver 17.0](ps_170.md)
-* [Recommendation Letter](SUMMARY.md)
+   * [MSIN - Ver 16.0](ps_160.md)
+   * [Columbia - Ver 17.0](ps_170.md)
+* [Recommendation Letter](RL.md)
    * [From Ni](rl_ni.md)
    * [From ZZZ](rl_zzz.md)
    * [From Ken](rl_kenchen.md)
