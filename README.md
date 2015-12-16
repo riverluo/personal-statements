@@ -1,4 +1,4 @@
 YYY notes for applying
 =======
 
-Records the YYY's efforts in applying.
+A Record of YYY's Efforts in Applying.
