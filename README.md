@@ -3,7 +3,7 @@ YYY's Personal Statements for Applying
 
 A Record of YYY's Efforts in Applying.
 
-## How's it work?
+## How does it work?
 
 ```
 npm install
