@@ -1,0 +1,27 @@
+{
+  "name": "personal-statements",
+  "version": "1.0.0",
+  "description": "YYY notes for applying =======",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "full": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyypasserby/personal-statements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyypasserby/personal-statements/issues"
+  },
+  "homepage": "https://github.com/yyypasserby/personal-statements#readme"
+}
