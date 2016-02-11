@@ -10,7 +10,8 @@
     "gulp-gh-pages": "^0.5.4"
   },
   "scripts": {
-    "run": "gulp",
+    "build": "gulp build",
+    "full": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
