@@ -51,6 +51,7 @@
    * [UCI - Ver 15.4](ps_154.md)
    * [UCI - Ver 15.5](ps_155.md)
    * [MSIN - Ver 16.0](ps_160.md)
+   * [MSIN - Ver 16.1](ps_161.md)
    * [Columbia - Ver 17.0](ps_170.md)
    * [Columbia - Ver 17.1](ps_171.md)
    * [Columbia - Ver 17.2](ps_172.md)
@@ -62,3 +63,4 @@
    * [From Ni](rl_ni.md)
    * [From ZZZ](rl_zzz.md)
    * [From Ken](rl_kenchen.md)
+* [Schools](schools.md)
